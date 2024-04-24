@@ -15,7 +15,7 @@ export const Header = () => {
         to={`/favorites`}
         style={{ textDecoration: "none", color: "white" }}
       >
-        <h3>Mes films</h3>
+        <h3>My favorite films</h3>
       </Link>
 
       <div className={styles.searchBar}>

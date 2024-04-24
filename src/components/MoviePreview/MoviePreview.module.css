@@ -1,2 +1,13 @@
 .movieCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(120, 147, 187);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+img {
+  max-height: 50rem;
+  max-width: 20rem;
 }
